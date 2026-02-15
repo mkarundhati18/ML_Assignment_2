@@ -73,7 +73,7 @@ Six different classification models were implemented and compared:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ML_Assignment_2.git
+    git clone https://github.com/mkarundhati18/ML_Assignment_2.git
     ```
 
 2. Install dependencies:
@@ -94,7 +94,7 @@ Six different classification models were implemented and compared:
 
 You can access the deployed app on Streamlit Cloud here:
 
-[Streamlit App Link](https://2025AB05249.streamlit.app)
+(https://mkarundhati18-ml-assignment-2-app-k4bepr.streamlit.app/)
 
 ---
 
